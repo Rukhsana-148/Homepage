@@ -1,0 +1,45 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+.container{
+    max-width : 1368px;
+    background-color: rgb(70, 95, 147);
+    height : 100vh;
+}
+.head{
+    margin-top : 150px;
+}
+h4{
+    color : white;
+    font-weight : bold;
+}
+i{
+    font-size : 30px;
+    color : white;
+    margin-bottom : 10px;
+  
+}
+.sign{
+    
+    margin-top : 50px;
+    background-color: rgb(61, 92, 128);
+    padding-left: 70px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+}
+form{
+    margin-top : 30px;
+}
+.head{
+    padding-top: 50px;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(97, 121, 172);
+    color : white;
+    margin-top : 20px;
+}
+
